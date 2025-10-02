@@ -6,7 +6,7 @@
       <br>
       <em>🔬 Crafting solutions with intelligence and purpose.</em>
       <br><br>
-      I thrive at the intersection of <strong>Artificial Intelligence, Quantum Computing, and Data Science</strong>,<br>
+      I thrive at the intersection of <strong>Artificial Intelligence, Quantum Computing and Data Science</strong>,
       building scalable and production-ready intelligent systems to solve real-world challenges in healthcare,
       public safety, and sustainable technology.<br><br>
       <strong>Areas of exploration include:</strong>
@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td valign="top" align="center" width="40%">
-      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="270" alt="Professional workspace GIF"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="270" height="350" alt="Professional workspace GIF"/>
     </td>
   </tr>
 </table>
