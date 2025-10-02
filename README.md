@@ -1,22 +1,23 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Professional AI and quantum computing animation"/>
-</div>
+<table>
+  <tr>
+    <td width="45%" valign="top" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Professional AI and quantum computing animation"/>
+    </td>
+    <td width="55%" valign="top" style="padding-left:20px;">
+      <h2>Syed Ameen G</h2>
+      <h3>Researcher | AI/ML Engineer | Quantum Computing Enthusiast</h3>
+      <p><i>Crafting solutions with intelligence and purpose.</i></p>
 
-  <h2>Syed Ameen G</h2>
-  <h3>Researcher | AI/ML Engineer | Quantum Computing Enthusiast</h3>
-  <p><i>Crafting solutions with intelligence and purpose.</i></p
+      ### 🔬 Research & Innovation  
+      I thrive at the intersection of **Artificial Intelligence, Quantum Computing, and Data Science**, building scalable and production-ready intelligent systems that solve real-world challenges in healthcare, public safety, and sustainable technology.
 
----
-
-### 🔬 Research & Innovation  
-I thrive at the intersection of **Artificial Intelligence, Quantum Computing, and Data Science**, building scalable and production-ready intelligent systems that solve real-world challenges in healthcare, public safety, and sustainable technology.
-
-Areas of exploration include:  
-- Explainable AI, Natural Language Processing, AI Agents  
-- Quantum Algorithms, Noise Mitigation & Reinforcement Learning  
-- Edge AI, Large Language Models, Computational Neurolinguistics  
-
----
+      Areas of exploration include:  
+      - Explainable AI, Natural Language Processing, AI Agents  
+      - Quantum Algorithms, Noise Mitigation & Reinforcement Learning  
+      - Edge AI, Large Language Models, Computational Neurolinguistics  
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Skills & Tools  
 
