@@ -1,23 +1,26 @@
 <table>
   <tr>
-    <td width="45%" valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Professional AI and quantum computing animation"/>
+    <td valign="top" style="padding-right:20px;">
+      <h1>Syed Ameen G</h1>
+      <p><strong>Researcher | AI/ML Engineer | Quantum Computing Enthusiast</strong></p>
+      <p><em>Crafting solutions with intelligence and purpose.</em></p>
+      <p>
+        I thrive at the intersection of <strong>Artificial Intelligence, Quantum Computing, and Data Science</strong>,
+        building scalable and production-ready intelligent systems that solve real-world challenges in healthcare, public safety, and sustainable technology.
+      </p>
+      <p>
+        Areas of exploration include:<br>
+        - Explainable AI, Natural Language Processing, AI Agents<br>
+        - Quantum Algorithms, Noise Mitigation & Reinforcement Learning<br>
+        - Edge AI, Large Language Models, Computational Neurolinguistics
+      </p>
     </td>
-    <td width="55%" valign="top" style="padding-left:20px;">
-      <h2>Syed Ameen G</h2>
-      <h3>Researcher | AI/ML Engineer | Quantum Computing Enthusiast</h3>
-      <p><i>Crafting solutions with intelligence and purpose.</i></p>
-
-      ### 🔬 Research & Innovation  
-      I thrive at the intersection of **Artificial Intelligence, Quantum Computing, and Data Science**, building scalable and production-ready intelligent systems that solve real-world challenges in healthcare, public safety, and sustainable technology.
-
-      Areas of exploration include:  
-      - Explainable AI, Natural Language Processing, AI Agents  
-      - Quantum Algorithms, Noise Mitigation & Reinforcement Learning  
-      - Edge AI, Large Language Models, Computational Neurolinguistics  
+    <td valign="top" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Professional AI and quantum computing animation"/>
     </td>
   </tr>
 </table>
+
 
 ### 🛠️ Skills & Tools  
 
