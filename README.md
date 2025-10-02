@@ -16,8 +16,8 @@
         <li>Edge AI, Large Language Models, Computational Neurolinguistics</li>
       </ul>
     </td>
-    <td valign="top" align="center" width="40%">
-      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="270" height="350" alt="Professional workspace GIF"/>
+    <td valign="middle" align="center" width="40%">
+      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="270"  alt="Professional workspace GIF"/>
     </td>
   </tr>
 </table>
