@@ -1,66 +1,78 @@
-# Syed Ameen G
+<div align="center"><div align="center">
+  <img src="https://raw.githubusercontent.com/SyedAmeenG/SyedAmeenG/main/image.jpg" width="400px"/>
 
-**Researcher | AI/ML Engineer | Quantum Computing Enthusiast**  
-
----
-
-### 🔬 Researching & Building
-- **AI for Healthcare**: Non-clinical ML models, RAG for medical prediction, dental X-ray classification  
-- **Computer Vision**: Road damage detection, emergency health monitoring, MedTech IoT solutions  
-- **Quantum Computing**: Variational Algorithms (VQE, QAOA, Quantum Gradient Descent), Quantum Optimization  
-- **Applied AI Systems**: Intelligent agents, fingerprint-based emergency response, graph-based donor matching  
+  <h2>Syed Ameen G</h2>
+  <h3>Researcher | AI/ML Engineer | Quantum Computing Enthusiast</h3>
+  <p><i>Crafting solutions with intelligence and purpose.</i></p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
-Driven by curiosity and a passion for **AI research and applied engineering**, I build systems that:  
-- Empower **healthcare diagnostics & MedTech**  
-- Enhance **public good systems** (emergency response, road safety)  
-- Explore **future-ready computation** (Quantum + AI)  
+### 🔬 Research & Innovation  
+I thrive at the intersection of **Artificial Intelligence, Quantum Computing, and Data Science**, building scalable and production-ready intelligent systems that solve real-world challenges in healthcare, public safety, and sustainable technology.
 
-I enjoy bridging the gap between **theory and practice** — publishing academic work while engineering deployable, real-world AI solutions.  
+Areas of exploration include:  
+- Explainable AI, Natural Language Processing, AI Agents  
+- Quantum Algorithms, Noise Mitigation & Reinforcement Learning  
+- Edge AI, Large Language Models, Computational Neurolinguistics  
 
 ---
 
-## 🛠️ Skills
+### 🛠️ Skills & Tools  
 
-**Programming & Scripting**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+**Programming Languages:**  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
-**Frameworks & Tools**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+
+**Machine Learning & Frameworks:**  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+
+**Web & Dev Tools:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Neo4j](https://img.shields.io/badge/-Neo4j-018BFF?logo=neo4j&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
-**Quantum**  
+**Quantum Computing:**  
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?logo=ibm&logoColor=white)  
 ![PennyLane](https://img.shields.io/badge/-PennyLane-FF4081?logo=quora&logoColor=white)  
-![D-Wave](https://img.shields.io/badge/-D--Wave-1A1A1A?logoColor=white)  
+
 
 ---
 
-## 🚀 Featured Projects  
-- 🔎 **[DIA-PERIO](#)** – Diabetes-informed ML for periodontal disease staging  
-- 🛣️ **[Road Damage Detection](#)** – YOLOv8 + GPS reporting for smart cities  
-- 🩸 **[Smart BloodLink](#)** – Fingerprint-based blood group detection & donor matching  
-- ⚛️ **[Quantum Variational Algorithms](#)** – Implementations of QAOA, VQE, Quantum Gradient Descent  
+### 🚀 Featured Projects  
+
+| Project                        | Tech Stack                      | Summary                                                                                       |
+|-------------------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
+| **Smart BloodLink**            | ESP32, Node.js, React, AI       | AI-driven fingerprint-based emergency blood coordination and donor matching system.           |
+| **Periodontal Disease Prediction** | Python, Scikit-learn, Streamlit      | ML model predicting periodontal disease stages using diabetes risk factors.                    |
+| **LeafIQ Adaptive Nutrient Genius** | Python, OpenCV, TensorFlow, Streamlit | AI-powered system detecting crop nutrient deficiencies via leaf image analysis.               |
+
+*More projects and details on my [GitHub](https://github.com/SyedAmeenG)*
 
 ---
 
-## 📊 GitHub Stats  
-![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedAmeenG&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAmeenG&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=xxxx)  
-[![Email](https://img.shields.io/badge/Email-syed@example.com-red)](mailto:syed@example.com)  
+### 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-ameen-ghouse)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:syedameengcse@example.com)  
+
+---
